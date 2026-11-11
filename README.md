@@ -324,11 +324,11 @@ After clicking the Predict Delivery Time button, the application displays the es
 ![Prediction Result](./prediction_result.png)
 
 
-## 9. Project Presentation and Demonstration
+## 9. Project Presentation and Links
 
-- **Project Presentation (5 slides):**
-- **Project Demonstration Video (maximum 5 minutes):** 
-
+- **Project Presentation (5 slides):** https://drive.google.com/file/d/1ssxY4Ft2F2s7R_JhpMkNYueY1tUPR3MT/view?usp=drivesdk
+- **Project Demonstration Video (maximum 5 minutes):** https://drive.google.com/file/d/1V-Us5de87jgUuIKyetvdiK9DUXpOF4Yt/view?usp=drivesdk
+- **Dataset Link:** https://github.com/sanskar770/Delivery_Time_Prediction/blob/main/Food_Delivery_Times.csv?utm_source=chatgpt.com
 ## 10. AI-Use Disclosure
 
 AI tools were used to assist with project development and documentation.
